@@ -28,7 +28,8 @@
 - [💰 Cari Hesap Sorguları](#-cari-hesap-sorguları)
 - [📦 Stok Sorguları](#-stok-sorguları)
 - [📊 Satış & Finans Sorguları](#-satış--finans-sorguları)
-- [⚙️ Fonksiyonlar](#️-fonksiyonlar)
+- [⚙️ Veritabanı Yönetimi & Admin](#️-veritabanı-yönetimi--admin)
+- [🧩 Fonksiyonlar](#-fonksiyonlar)
 - [⚠️ Kullanım Uyarıları](#️-kullanım-uyarıları)
 - [🤝 Katkıda Bulunma](#-katkıda-bulunma)
 
@@ -81,7 +82,14 @@ Mikro ERP'nin dahili raporlama aracı tek tek müşteriler için yeterli olsa da
 | [`finans/kasa-nakit-akis.sql`](finans/kasa-nakit-akis.sql) | Kasa nakit akış raporu | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-kasa-nakit-akis-raporu-sql) |
 | [`finans/kur-farki-kontrol.sql`](finans/kur-farki-kontrol.sql) | Döviz kur farkı kontrol | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-kur-farki-kontrol-sql) |
 
-## ⚙️ Fonksiyonlar
+## ⚙️ Veritabanı Yönetimi & Admin
+
+| Dosya | Açıklama | Blog Yazısı |
+|-------|----------|-------------|
+| [`db-admin/fonksiyon-kopyalama-senkronizasyon.sql`](db-admin/fonksiyon-kopyalama-senkronizasyon.sql) | fn_ fonksiyonlarını diğer şube DB'lerine kopyalama | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-fn-fonksiyonlari-sube-kopyalama) |
+| [`db-admin/cross-db-update-senkronizasyon.sql`](db-admin/cross-db-update-senkronizasyon.sql) | SQL Server Agent ile şubeler arası veri eşitleme | [📝 Oku](https://mikroerp.dev/blog/sql-server-cross-database-update-senkronizasyon) |
+
+## 🧩 Fonksiyonlar
 
 | Dosya | Açıklama | Blog Yazısı |
 |-------|----------|-------------|
