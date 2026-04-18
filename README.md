@@ -86,6 +86,9 @@ Mikro ERP'nin dahili raporlama aracı tek tek müşteriler için yeterli olsa da
 | Dosya | Açıklama | Blog Yazısı |
 |-------|----------|-------------|
 | [`fonksiyonlar/fn-aysm-aciklama.md`](fonksiyonlar/fn-aysm-aciklama.md) | fn_Aysm fonksiyonları referans rehberi | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-yaslandirma-sql-sorgusu) |
+| [`fonksiyonlar/fn_Aysm_v2_CariharBorcAlacak.sql`](fonksiyonlar/fn_Aysm_v2_CariharBorcAlacak.sql) | Borç/alacak belirleyici fonksiyon | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-yaslandirma-sql-sorgusu) |
+| [`fonksiyonlar/fn_Aysm_v2_CariHesapAnaDovizBakiye.sql`](fonksiyonlar/fn_Aysm_v2_CariHesapAnaDovizBakiye.sql) | Ana döviz bakiye hesaplama | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-yaslandirma-sql-sorgusu) |
+| [`fonksiyonlar/fn_Aysm_v2_CariHesapMeblag.sql`](fonksiyonlar/fn_Aysm_v2_CariHesapMeblag.sql) | Hareket net tutar hesaplama (KDV, masraf, tevkifat) | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-yaslandirma-sql-sorgusu) |
 
 ---
 
