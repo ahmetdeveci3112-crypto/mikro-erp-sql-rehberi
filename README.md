@@ -60,6 +60,8 @@ Mikro ERP'nin dahili raporlama aracı tek tek müşteriler için yeterli olsa da
 | [`cari/kapanmamis-hareketler.sql`](cari/kapanmamis-hareketler.sql) | Açık/kapanmamış cari hareketler | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-kapanmamis-cari-hareket-sql) |
 | [`cari/belge-no-arama.sql`](cari/belge-no-arama.sql) | Belge numarasıyla hareket bulma | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-belge-no-cari-hareket-bulma-sql) |
 | [`cari/vade-hesaplama.sql`](cari/vade-hesaplama.sql) | cha_vade → gerçek tarih hesaplama | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-vade-hesaplama-cha-vade-sql) |
+| [`cari/cari-risk-foyu-046355.sql`](cari/cari-risk-foyu-046355.sql) | Detaylı cari risk raporu (046355) — fn_CariRiskFoyu analizi | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-risk-raporu-fn-caririsklfoyu-analizi) |
+| [`cari/tahsilat-detay-raporu.sql`](cari/tahsilat-detay-raporu.sql) | Cari bazlı günlük tahsilat detayı (046110 alternatifi) | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-tahsilat-detay-raporu-sql) |
 
 ## 📦 Stok Sorguları
 
