@@ -62,6 +62,12 @@ Mikro ERP'nin dahili raporlama aracı tek tek müşteriler için yeterli olsa da
 | [`cari/vade-hesaplama.sql`](cari/vade-hesaplama.sql) | cha_vade → gerçek tarih hesaplama | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-vade-hesaplama-cha-vade-sql) |
 | [`cari/cari-risk-foyu-046355.sql`](cari/cari-risk-foyu-046355.sql) | Detaylı cari risk raporu (046355) — fn_CariRiskFoyu analizi | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-risk-raporu-fn-caririsklfoyu-analizi) |
 | [`cari/tahsilat-detay-raporu.sql`](cari/tahsilat-detay-raporu.sql) | Cari bazlı günlük tahsilat detayı (046110 alternatifi) | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-tahsilat-detay-raporu-sql) |
+| [`cari/ortalama-tahsilat-suresi-dso.sql`](cari/ortalama-tahsilat-suresi-dso.sql) | Ortalama tahsilat süresi (DSO) — parça ağırlıklı FIFO | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-ortalama-tahsilat-suresi-dso-sql) |
+| [`cari/fifo-fatura-tahsilat-eslestirme.sql`](cari/fifo-fatura-tahsilat-eslestirme.sql) | FIFO fatura-tahsilat eşleştirme algoritması | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-fifo-fatura-tahsilat-eslestirme-sql) |
+| [`cari/cek-senet-gercek-tahsilat-tarihi.sql`](cari/cek-senet-gercek-tahsilat-tarihi.sql) | Çek/senet gerçek tahsilat tarihi ve araç dağılımı | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cek-senet-gercek-tahsilat-tarihi-sql) |
+| [`cari/vadesinde-odeme-yuzdesi.sql`](cari/vadesinde-odeme-yuzdesi.sql) | Vadesinde ödeme yüzdesi + aylık trend analizi | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-vadesinde-odeme-yuzdesi-sql) |
+| [`cari/yaslandirma-performans-pipeline.sql`](cari/yaslandirma-performans-pipeline.sql) | Yaşlandırma performans pipeline — fn_Aysm darboğazı çözümü | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-yaslandirma-performans-optimizasyon) |
+| [`cari/kredi-derecelendirme-skorlama.sql`](cari/kredi-derecelendirme-skorlama.sql) | Cari kredi derecelendirme ve A-E risk skorlama | [📝 Oku](https://mikroerp.dev/blog/mikro-erp-cari-kredi-derecelendirme-skorlama-sql) |
 
 ## 📦 Stok Sorguları
 
